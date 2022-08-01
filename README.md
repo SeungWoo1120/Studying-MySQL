@@ -1,2 +1,2 @@
 # Studying-MySQL
-MySQL 강의 복기
+MySQL 매일 공부기록
