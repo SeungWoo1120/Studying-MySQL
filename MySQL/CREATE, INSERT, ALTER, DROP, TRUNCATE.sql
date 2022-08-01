@@ -19,7 +19,7 @@ VALUES (10, 'caterpie', 'bug'),
 SELECT *
 FROM mypokemon;
 
-# use를 계속 써줘야되는듯?
+# use를 계속 써줘야되는듯
 USE pokemon;
 CREATE TABLE mynewpokemon (
 		number INT,
